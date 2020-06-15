@@ -1,4 +1,4 @@
-setwd("C:/Users/Mahe/Desktop/R/RIIT")
+setwd("C:/Users/Mahe/Desktop/R/RIIT") ## can be different from everyone
 year2017<-read.csv("2017whole1.csv")
 year2018<-read.csv("2018whole1.csv")
 
